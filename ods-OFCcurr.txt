@@ -37,7 +37,6 @@ fdo38027-1.ods
 fdo38027-2.ods
 fdo38028-1.ods
 fdo39236-2.ods
-fdo39260-1.ods
 fdo39333-1.ods
 fdo39484-5.ods
 fdo39484-7.ods
@@ -60,6 +59,9 @@ fdo42145-1.ods
 fdo42310-1.ods
 fdo42684-4.ods
 fdo42756-1.ods
+fdo43003-1.ods
+fdo43003-2.ods
+fdo43003-3.ods
 fdo43413-1.ods
 fdo43483-1.ods
 fdo43831-1.ods
@@ -67,8 +69,6 @@ fdo43856-1.ods
 fdo44044-1.ods
 fdo44459-1.ods
 fdo44461-1.ods
-fdo45041-1.ods
-fdo45102-1.ods
 fdo45134-1.ods
 fdo45372-1.ods
 fdo45753-2.ods
@@ -268,7 +268,6 @@ fdo84279-1.ods
 fdo84621-4.ods
 fdo84623-1.ods
 fdo84670-1.ods
-fdo84745-1.ods
 fdo84763-2.ods
 fdo84763-3.ods
 fdo84874-1.ods
@@ -279,6 +278,7 @@ fdo85061-3.ods
 fdo85170-1.ods
 fdo85353-1.ods
 fdo85353-3.ods
+fdo85431-1.ods
 fdo85685-1.ods
 fdo85777-1.ods
 fdo85882-1.ods
@@ -298,7 +298,6 @@ fdo87245-1.ods
 fdo87415-1.ods
 fdo87479-1.ods
 fdo87487-2.ods
-fdo88460-1.ods
 fdo88665-2.ods
 gnome568928-1.ods
 gnome575600-1.ods
@@ -400,9 +399,12 @@ ooo116954-1.ods
 ooo117239-1.ods
 ooo117841-1.ods
 ooo117930-1.ods
+ooo117986-1.ods
 ooo118213-2.ods
 ooo118506-1.ods
 ooo118549-1.ods
+ooo118645-1.ods
+ooo118645-2.ods
 ooo118864-1.ods
 ooo119641-1.ods
 ooo120017-1.ods
@@ -450,6 +452,7 @@ ooo127051-1.ods
 ooo127261-1.ods
 ooo127802-1.ods
 ooo127811-1.ods
+ooo20819-4.ods
 ooo44267-1.ods
 ooo44907-1.ods
 ooo47783-1.ods
@@ -516,6 +519,7 @@ ooo84429-1.ods
 ooo85110-1.ods
 ooo87128-1.ods
 ooo87601-1.ods
+ooo87874-1.ods
 ooo88173-1.ods
 ooo88352-3.ods
 ooo88473-2.ods
@@ -538,7 +542,6 @@ ooo96803-1.ods
 ooo96803-2.ods
 ooo96803-3.ods
 ooo96835-3.ods
-ooo96872-1.ods
 ooo97789-1.ods
 ooo97789-2.ods
 ooo97882-1.ods
@@ -563,7 +566,6 @@ tdf101365-2.ods
 tdf101368-2.ods
 tdf101565-1.ods
 tdf102525-2.ods
-tdf103493-1.ods
 tdf103632-1.ods
 tdf103633-1.ods
 tdf103701-1.ods
@@ -664,6 +666,7 @@ tdf129283-1.ods
 tdf129410-1.ods
 tdf129485-1.ods
 tdf129703-4.ods
+tdf129896-1.ods
 tdf130431-2.ods
 tdf130625-1.ods
 tdf130722-1.ods
@@ -683,9 +686,7 @@ tdf132488-3.ods
 tdf132521-1.ods
 tdf132956-1.ods
 tdf133303-1.ods
-tdf133389-1.ods
 tdf133389-2.ods
-tdf133840-2.ods
 tdf133878-2.ods
 tdf133923-1.ods
 tdf134161-1.ods
@@ -702,6 +703,7 @@ tdf137389-1.ods
 tdf137420-1.ods
 tdf137488-1.ods
 tdf137565-1.ods
+tdf137667-1.ods
 tdf64499-5.ods
 tdf66717-1.ods
 tdf66717-2.ods
@@ -741,6 +743,7 @@ tdf91218-2.ods
 tdf91218-3.ods
 tdf91220-1.ods
 tdf91257-1.ods
+tdf91297-1.ods
 tdf91307-1.ods
 tdf91931-1.ods
 tdf91947-1.ods
@@ -777,6 +780,7 @@ tdf94423-2.ods
 tdf94429-1.ods
 tdf94471-1.ods
 tdf94533-3.ods
+tdf94665-1.ods
 tdf94924-3.ods
 tdf95226-1.ods
 tdf95233-1.ods
