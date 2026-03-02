@@ -5,8 +5,6 @@ fdo69574-1.odp
 fdo85569-1.odp
 fdo85569-5.odp
 fdo85569-6.odp
-forum-en-7209.odp
-forum-en-7210.odp
 forum-fr-17996.odp
 gnome523228-1.odp
 kde249879-1.odp
@@ -17,7 +15,6 @@ ooo105373-2.odp
 ooo115761-1.odp
 ooo48248-4.odp
 ooo50373-1.odp
-ooo50804-1.odp
 ooo55625-2.odp
 ooo65473-1.odp
 ooo75672-3.odp

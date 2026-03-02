@@ -93,7 +93,6 @@ fdo53156-1.ods
 fdo53339-1.ods
 fdo53428-1.ods
 fdo53576-1.ods
-fdo53839-5.ods
 fdo54343-1.ods
 fdo54378-1.ods
 fdo54403-1.ods
@@ -399,7 +398,6 @@ ooo120505-1.ods
 ooo121280-1.ods
 ooo121724-1.ods
 ooo122113-1.ods
-ooo122159-1.ods
 ooo122801-3.ods
 ooo122840-1.ods
 ooo122886-1.ods
@@ -432,7 +430,6 @@ ooo125679-1.ods
 ooo125941-2.ods
 ooo126199-1.ods
 ooo126199-2.ods
-ooo126856-1.ods
 ooo126979-1.ods
 ooo126994-1.ods
 ooo127051-1.ods
@@ -589,13 +586,10 @@ tdf115466-2.ods
 tdf115513-1.ods
 tdf115741-1.ods
 tdf115755-1.ods
-tdf116060-2.ods
 tdf116502-1.ods
 tdf116706-3.ods
 tdf117088-1.ods
 tdf117203-1.ods
-tdf117417-2.ods
-tdf117580-1.ods
 tdf118149-1.ods
 tdf119305-1.ods
 tdf119428-1.ods
