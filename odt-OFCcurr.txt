@@ -11,7 +11,6 @@ fdo51690-1.odt
 fdo52080-1.odt
 fdo56258-2.odt
 fdo56272-1.odt
-fdo57550-1.odt
 fdo59714-1.odt
 fdo60218-1.odt
 fdo60419-1.odt
@@ -66,7 +65,6 @@ forum-es-1552.odt
 forum-es-1554.odt
 forum-fr-10705.odt
 forum-fr-10709.odt
-forum-fr-1140.odt
 forum-fr-1189.odt
 forum-fr-12169.odt
 forum-fr-15468.odt
@@ -125,8 +123,6 @@ ooo71364-1.odt
 ooo72701-1.odt
 ooo72703-1.odt
 ooo74516-1.odt
-ooo75457-1.odt
-ooo76301-1.odt
 ooo76470-1.odt
 ooo76470-3.odt
 ooo78952-2.odt
