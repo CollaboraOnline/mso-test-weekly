@@ -12,7 +12,6 @@ fdo45985-1.ods
 fdo46080-1.ods
 fdo47724-1.ods
 fdo50543-1.ods
-fdo52410-2.ods
 fdo55413-3.ods
 fdo55413-4.ods
 fdo57492-1.ods
@@ -184,7 +183,6 @@ tdf137394-1.ods
 tdf41544-4.ods
 tdf49134-3.ods
 tdf49134-4.ods
-tdf50916-2.ods
 tdf56173-1.ods
 tdf71281-2.ods
 tdf84621-3.ods
