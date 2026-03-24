@@ -246,7 +246,6 @@ fdo86321-1.ods
 fdo86572-1.ods
 fdo86575-2.ods
 fdo86577-1.ods
-fdo86737-1.ods
 fdo86802-1.ods
 fdo87245-1.ods
 fdo87415-1.ods
@@ -398,7 +397,6 @@ ooo49479-1.ods
 ooo51043-1.ods
 ooo51564-6.ods
 ooo51564-8.ods
-ooo52034-1.ods
 ooo52466-1.ods
 ooo54201-1.ods
 ooo55962-1.ods
@@ -412,7 +410,6 @@ ooo65297-1.ods
 ooo66941-1.ods
 ooo66974-1.ods
 ooo67475-1.ods
-ooo67475-3.ods
 ooo67710-1.ods
 ooo69448-1.ods
 ooo69942-2.ods

@@ -42,7 +42,6 @@ gentoo193238-1.odt
 lp244353-17.odt
 novell820579-2.odt
 ooo102374-1.odt
-ooo105604-1.odt
 ooo124717-4.odt
 ooo29679-13.odt
 ooo29679-42.odt

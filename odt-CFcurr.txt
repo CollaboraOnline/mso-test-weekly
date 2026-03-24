@@ -401,7 +401,6 @@ tdf101123-3.odt
 tdf101125-2.odt
 tdf101821-1.odt
 tdf101821-3.odt
-tdf103059-2.odt
 tdf103097-1.odt
 tdf104862-4.odt
 tdf105126-2.odt
