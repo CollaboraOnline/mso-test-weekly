@@ -1,5 +1,7 @@
 fdo47773-3.odp
+fdo49878-1.odp
 fdo58072-1.odp
+fdo71663-2.odp
 fdo86718-3.odp
 forum-fr-44164.odp
 forum-fr-5474.odp
@@ -11,6 +13,7 @@ kde303587-1.odp
 novell420913-5.odp
 ooo111928-1.odp
 ooo114750-1.odp
+ooo117337-2.odp
 ooo119966-1.odp
 ooo120768-1.odp
 ooo123732-1.odp
@@ -28,4 +31,6 @@ ooo93729-1.odp
 ooo99904-1.odp
 tdf112461-2.odp
 tdf112461-3.odp
+tdf131198-2.odp
 tdf89975-1.odp
+tdf98686-4.odp
