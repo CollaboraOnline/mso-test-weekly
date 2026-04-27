@@ -24,6 +24,7 @@ novell820579-2.odt
 ooo102374-1.odt
 ooo29679-13.odt
 ooo29679-42.odt
+ooo58366-1.odt
 ooo60755-1.odt
 ooo61010-1.odt
 ooo62044-1.odt
