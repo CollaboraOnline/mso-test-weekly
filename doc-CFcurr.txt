@@ -1,8 +1,6 @@
 abi2060-1.doc
 abi6073-2.doc
 abi6073-3.doc
-fdo39587-1.doc
-fdo40887-2.doc
 fdo44194-1.doc
 fdo45394-6.doc
 fdo55185-1.doc
@@ -11,9 +9,14 @@ fdo57780-1.doc
 fdo57780-2.doc
 fdo61094-1.doc
 fdo72691-1.doc
+fdo85607-1.doc
 forum-en-21543.doc
 forum-en-45308.doc
 forum-en-5222.doc
+forum-en-6991.doc
+forum-en-738.doc
+forum-en-7550.doc
+forum-en-7979.doc
 forum-es-3772.doc
 forum-es-9048.doc
 forum-fr-17359.doc
@@ -113,6 +116,7 @@ ooo71168-3.doc
 ooo71198-1.doc
 ooo71325-1.doc
 ooo71325-2.doc
+ooo71325-5.doc
 ooo71408-1.doc
 ooo71437-2.doc
 ooo71697-2.doc
