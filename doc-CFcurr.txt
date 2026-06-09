@@ -9,14 +9,9 @@ fdo57780-1.doc
 fdo57780-2.doc
 fdo61094-1.doc
 fdo72691-1.doc
-fdo85607-1.doc
 forum-en-21543.doc
 forum-en-45308.doc
 forum-en-5222.doc
-forum-en-6991.doc
-forum-en-738.doc
-forum-en-7550.doc
-forum-en-7979.doc
 forum-es-3772.doc
 forum-es-9048.doc
 forum-fr-17359.doc
@@ -116,7 +111,6 @@ ooo71168-3.doc
 ooo71198-1.doc
 ooo71325-1.doc
 ooo71325-2.doc
-ooo71325-5.doc
 ooo71408-1.doc
 ooo71437-2.doc
 ooo71697-2.doc
@@ -148,7 +142,6 @@ ooo80276-1.doc
 ooo83947-2.doc
 ooo89201-3.doc
 ooo90129-1.doc
-ooo93224-2.doc
 rhbz1046245-14.doc
 tdf104813-1.doc
 tdf135708-1.doc

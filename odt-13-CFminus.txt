@@ -21,6 +21,7 @@ ooo102448-2.odt
 ooo103057-1.odt
 ooo124946-1.odt
 ooo72153-2.odt
+rhbz490395-4.odt
 tdf104020-1.odt
 tdf106666-1.odt
 tdf113721-3.odt

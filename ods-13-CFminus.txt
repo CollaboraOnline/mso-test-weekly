@@ -7,7 +7,6 @@ fdo50543-1.ods
 fdo58917-1.ods
 fdo65321-1.ods
 fdo65321-3.ods
-fdo71299-1.ods
 ooo103315-1.ods
 ooo118864-1.ods
 ooo121931-2.ods
