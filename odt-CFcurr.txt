@@ -169,7 +169,6 @@ kde280711-1.odt
 kde298689-1.odt
 kde304655-2.odt
 kde326558-1.odt
-lp303972-2.odt
 lp591503-2.odt
 novell585570-1.odt
 novell585570-2.odt
@@ -308,6 +307,7 @@ ooo99685-2.odt
 ooo99685-3.odt
 rhbz555285-2.odt
 tdf101821-1.odt
+tdf104020-1.odt
 tdf105126-2.odt
 tdf111995-1.odt
 tdf113160-4.odt

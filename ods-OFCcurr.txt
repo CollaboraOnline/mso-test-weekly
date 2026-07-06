@@ -140,6 +140,7 @@ fdo72391-2.ods
 fdo72618-1.ods
 fdo72962-2.ods
 fdo73235-1.ods
+fdo73293-1.ods
 fdo73294-2.ods
 fdo73423-1.ods
 fdo73423-2.ods
@@ -196,6 +197,7 @@ fdo82857-1.ods
 fdo82862-1.ods
 fdo83116-2.ods
 fdo84022-1.ods
+fdo84052-1.ods
 fdo84279-1.ods
 fdo84621-4.ods
 fdo84623-1.ods

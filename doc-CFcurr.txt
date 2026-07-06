@@ -2,7 +2,6 @@ abi2060-1.doc
 abi6073-2.doc
 abi6073-3.doc
 fdo44194-1.doc
-fdo45394-6.doc
 fdo55185-1.doc
 fdo55196-1.doc
 fdo57780-1.doc
@@ -30,7 +29,9 @@ kde51793-3.doc
 ooo108088-1.doc
 ooo110639-1.doc
 ooo111353-1.doc
+ooo111365-1.doc
 ooo112634-3.doc
+ooo112797-3.doc
 ooo113686-1.doc
 ooo115384-1.doc
 ooo115398-1.doc
