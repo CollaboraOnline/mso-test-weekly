@@ -32,5 +32,7 @@ ooo75187-2.ods
 ooo96736-1.ods
 ooo99926-1.ods
 rhbz430636-1.ods
+tdf104925-1.ods
+tdf104928-1.ods
 tdf123986-2.ods
 tdf99238-1.ods

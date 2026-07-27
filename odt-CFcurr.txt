@@ -307,7 +307,6 @@ ooo99685-2.odt
 ooo99685-3.odt
 rhbz555285-2.odt
 tdf101821-1.odt
-tdf104020-1.odt
 tdf105126-2.odt
 tdf111995-1.odt
 tdf113160-4.odt

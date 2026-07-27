@@ -20,6 +20,7 @@ forum-fr-31179.odt
 forum-fr-31844.odt
 forum-fr-48587.odt
 forum-it-17624.odt
+forum-it-7081.odt
 novell820579-2.odt
 ooo102374-1.odt
 ooo29679-13.odt
@@ -27,6 +28,7 @@ ooo29679-42.odt
 ooo60755-1.odt
 ooo61010-1.odt
 ooo62044-1.odt
+ooo65798-1.odt
 ooo67578-1.odt
 ooo69618-1.odt
 ooo74516-1.odt
