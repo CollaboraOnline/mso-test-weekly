@@ -1,4 +1,7 @@
+fdo69220-1.doc
+fdo74356-2.doc
 forum-mso-de-17306.doc
+forum-mso-en-4589.doc
 ooo104279-1.doc
 ooo19882-1.doc
 ooo23501-1.doc

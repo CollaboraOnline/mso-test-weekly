@@ -1,7 +1,5 @@
-fdo82764-3.xls
 forum-fr-3143.xls
 forum-mso-en4-226954.xls
-forum-mso-en4-266785.xls
 forum-mso-en4-26989.xls
 forum-mso-en4-27184.xls
 forum-mso-en4-38671.xls
@@ -11,17 +9,11 @@ forum-mso-en4-524022.xls
 forum-mso-en4-80336.xls
 forum-mso-en4-82630.xls
 forum-mso-en4-88953.xls
-moz1355660-4.xls
-moz1613747-1.xls
-moz1613747-3.xls
-moz1651828-4.xls
-moz443369-3.xls
 ooo104759-1.xls
 ooo108951-2.xls
 ooo108951-3.xls
 ooo108951-4.xls
 ooo23969-1.xls
 ooo71768-1.xls
-ooo76076-1.xls
 ooo83461-1.xls
 ooo86460-1.xls
