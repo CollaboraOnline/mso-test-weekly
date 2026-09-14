@@ -1,5 +1,7 @@
 gnome588071-2.ppt
 kde207431-1.ppt
+kde239476-1.ppt
+kde239476-9.ppt
 ooo119530-1.ppt
 ooo119539-1.ppt
 ooo119542-1.ppt
@@ -15,3 +17,7 @@ ooo120904-1.ppt
 ooo120904-2.ppt
 ooo120912-1.ppt
 ooo37397-1.ppt
+rhbz189757-1.ppt
+tdf89328-2.ppt
+tdf89328-3.ppt
+tdf89328-4.ppt
