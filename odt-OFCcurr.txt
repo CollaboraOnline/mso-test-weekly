@@ -1,5 +1,4 @@
 fdo33596-1.odt
-fdo48097-2.odt
 fdo66439-1.odt
 fdo72402-1.odt
 fdo72402-2.odt
