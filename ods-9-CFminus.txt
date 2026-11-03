@@ -1,6 +1,10 @@
-fdo68632-1.ods
-ooo52251-1.ods
-ooo58321-2.ods
-ooo60654-1.ods
-ooo94644-1.ods
-tdf120217-1.ods
+fdo68543-1.ods
+novell653418-1.ods
+ooo106237-1.ods
+ooo45303-1.ods
+ooo74264-1.ods
+ooo92436-4.ods
+rhbz430636-4.ods
+rhbz430636-5.ods
+rhbz754051-1.ods
+tdf96594-1.ods

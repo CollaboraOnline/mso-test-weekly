@@ -6,6 +6,7 @@ fdo59040-1.odt
 fdo59712-1.odt
 fdo62508-1.odt
 fdo63293-1.odt
+fdo63640-1.odt
 fdo63737-1.odt
 fdo67675-1.odt
 fdo68375-1.odt
@@ -123,6 +124,7 @@ forum-en-6231.odt
 forum-en-7278.odt
 forum-en-7529.odt
 forum-en-9900.odt
+forum-es-3013.odt
 forum-es-5910.odt
 forum-es-6959.odt
 forum-es-7081.odt
@@ -164,12 +166,10 @@ kde174610-1.odt
 kde206129-1.odt
 kde240353-2.odt
 kde248904-1.odt
-kde271928-1.odt
 kde280711-1.odt
 kde298689-1.odt
 kde304655-2.odt
 kde326558-1.odt
-lp303972-2.odt
 lp591503-2.odt
 novell585570-1.odt
 novell585570-2.odt
@@ -308,6 +308,7 @@ ooo99685-2.odt
 ooo99685-3.odt
 rhbz555285-2.odt
 tdf101821-1.odt
+tdf101821-2.odt
 tdf105126-2.odt
 tdf111995-1.odt
 tdf113160-4.odt

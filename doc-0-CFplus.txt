@@ -8,10 +8,15 @@ fdo39505-3.doc
 fdo39587-1.doc
 fdo40887-2.doc
 fdo44194-1.doc
+fdo45394-6.doc
 fdo48132-2.doc
 fdo55185-1.doc
 fdo55196-1.doc
 fdo55529-2.doc
+fdo57780-1.doc
+fdo57780-2.doc
+fdo61094-1.doc
+fdo67478-1.doc
 fdo72691-1.doc
 forum-en-21543.doc
 forum-en-45308.doc
@@ -52,6 +57,7 @@ ooo24202-1.doc
 ooo29010-1.doc
 ooo29207-2.doc
 ooo29660-1.doc
+ooo31922-1.doc
 ooo34163-2.doc
 ooo34163-3.doc
 ooo34587-8.doc
@@ -202,8 +208,6 @@ tdf135708-1.doc
 tdf136503-1.doc
 tdf46203-4.doc
 tdf61558-2.doc
-tdf78401-7.doc
-tdf78401-9.doc
 tdf80635-2.doc
 tdf81887-4.doc
 tdf81922-1.doc

@@ -56,6 +56,7 @@ gnome649851-6.ods
 gnome650640-1.ods
 kde115273-2.ods
 kde115273-8.ods
+kde239786-1.ods
 kde314684-2.ods
 kde321860-1.ods
 kde324885-1.ods
@@ -124,11 +125,11 @@ ooo64377-3.ods
 ooo64377-5.ods
 ooo65431-1.ods
 ooo68076-1.ods
-ooo69993-2.ods
 ooo70597-1.ods
 ooo71833-1.ods
 ooo74257-1.ods
 ooo74264-1.ods
+ooo75187-2.ods
 ooo75943-1.ods
 ooo76805-1.ods
 ooo79121-2.ods
@@ -148,7 +149,6 @@ ooo97605-1.ods
 ooo97722-1.ods
 ooo97722-2.ods
 ooo98176-3.ods
-ooo98774-1.ods
 ooo99847-1.ods
 ooo99926-1.ods
 rhbz430636-1.ods
@@ -162,9 +162,7 @@ tdf104862-2.ods
 tdf106512-1.ods
 tdf112881-1.ods
 tdf114268-1.ods
-tdf115488-1.ods
 tdf115897-1.ods
-tdf116844-1.ods
 tdf116964-1.ods
 tdf116964-3.ods
 tdf119491-1.ods

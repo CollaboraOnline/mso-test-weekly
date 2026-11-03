@@ -1,5 +1,6 @@
 abi10193-1.odt
 abi10268-1.odt
+abi11853-1.odt
 abi11899-3.odt
 abi11904-1.odt
 abi12855-1.odt
@@ -197,12 +198,14 @@ forum-fr-9681.odt
 forum-it-15885.odt
 forum-it-8084.odt
 forum-ja-255.odt
+forum-ja-656.odt
 forum-pl-2390.odt
 kde174610-1.odt
 kde206129-1.odt
 kde210633-1.odt
 kde240353-2.odt
 kde248904-1.odt
+kde271928-1.odt
 kde280711-1.odt
 kde298689-1.odt
 kde304655-2.odt
@@ -264,6 +267,7 @@ ooo121086-1.odt
 ooo121497-1.odt
 ooo121499-1.odt
 ooo122200-1.odt
+ooo123057-2.odt
 ooo123868-1.odt
 ooo124871-1.odt
 ooo125431-9.odt
@@ -414,6 +418,7 @@ tdf113160-4.odt
 tdf115010-1.odt
 tdf115964-1.odt
 tdf119366-1.odt
+tdf121720-1.odt
 tdf125372-1.odt
 tdf125698-2.odt
 tdf128035-1.odt
@@ -461,3 +466,4 @@ tdf96323-1.odt
 tdf97466-1.odt
 tdf97613-1.odt
 tdf99686-1.odt
+tdf99976-1.odt
