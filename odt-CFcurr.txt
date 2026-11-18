@@ -6,14 +6,12 @@ fdo59040-1.odt
 fdo59712-1.odt
 fdo62508-1.odt
 fdo63293-1.odt
-fdo63640-1.odt
 fdo63737-1.odt
 fdo67675-1.odt
 fdo68375-1.odt
 fdo72985-1.odt
 fdo73805-1.odt
 fdo76560-1.odt
-fdo76993-1.odt
 fdo77248-1.odt
 fdo78167-1.odt
 fdo78260-1.odt
@@ -124,7 +122,6 @@ forum-en-6231.odt
 forum-en-7278.odt
 forum-en-7529.odt
 forum-en-9900.odt
-forum-es-3013.odt
 forum-es-5910.odt
 forum-es-6959.odt
 forum-es-7081.odt
@@ -255,7 +252,6 @@ ooo57363-1.odt
 ooo58148-2.odt
 ooo59003-1.odt
 ooo59051-1.odt
-ooo59587-1.odt
 ooo60594-20.odt
 ooo62113-1.odt
 ooo63783-1.odt
@@ -308,7 +304,6 @@ ooo99685-2.odt
 ooo99685-3.odt
 rhbz555285-2.odt
 tdf101821-1.odt
-tdf101821-2.odt
 tdf105126-2.odt
 tdf111995-1.odt
 tdf113160-4.odt

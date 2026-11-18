@@ -1,10 +1,7 @@
 fdo58539-14.ods
-fdo74325-1.ods
-fdo74451-1.ods
+fdo58954-1.ods
 fdo86918-1.ods
 fdo87317-1.ods
-fdo87487-2.ods
-fdo88460-1.ods
 novell713623-1.ods
 ooo100840-1.ods
 ooo103088-1.ods
@@ -44,5 +41,7 @@ ooo70597-1.ods
 ooo96736-1.ods
 ooo99926-1.ods
 rhbz430636-1.ods
+tdf121386-2.ods
 tdf123986-2.ods
+tdf95725-1.ods
 tdf99238-1.ods
